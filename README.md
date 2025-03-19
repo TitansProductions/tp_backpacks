@@ -5,7 +5,7 @@ We provide you a very interesting backpacks script to be used for your players, 
 
 - Returns a boolean (true / false) if the player data has loaded related to this script (such as loading all backpack data on login).
 ```lua
-exports.tp_backpacks:Loaded() -- cl
+exports.tp_backpacks:Loaded()
 ```
 
 - Returns a boolean (true / false) if the player has a backpack attached (equipped) or not.
